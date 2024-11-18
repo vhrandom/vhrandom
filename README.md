@@ -5,7 +5,7 @@
 
 
 <br>
-- :school: I'm a sutdent at Universidad de Valparaíso
+- :school: I'm a sutdent at Universidad de Valparaíso.
 - :boom: [MY WEBSITE](https://vhrandom.github.io/).
 <br>
 
